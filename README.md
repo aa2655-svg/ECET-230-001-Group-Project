@@ -18,7 +18,8 @@
 ## 🛠️ Tools & Technologies
 - **Arduino IDE** (C/C++ programming)  
 - **SolidWorks / Fusion 360** (3D design)  
-- **3D Printing (PLA+ / PETG)** for mechanical parts  
+- **3D Printing (PLA+ / PETG)** for mechanical parts
+- **Kicad** for PCB designing  
 - **GitHub** for version control and collaboration  
 
 ---
