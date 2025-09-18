@@ -6,13 +6,15 @@
 
 ## Current Design Choices
 - **Controller**: Arduino Uno (chosen for simplicity and cost).
-- **Power Supply**: 12V DC adapter.
-- **Outputs**: Gripper, laser.
+- **Power Supply**: 9V Battery, Charger.
+- **Outputs**: Gripper, laser, LED, LCD Display.
 - **Sensor**: Gyroscope for position feedback.
+- **Wireless**: RF Transmitter and Reciever
 
 ## Alternatives Considered
-- Raspberry Pi (decided against due to complexity).
-- Servo motor (less torque for this application).
+- Esp32
+- STM32
+- DC motors.
 
 ## Future Decisions To Be Made
 - 
