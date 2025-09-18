@@ -2,7 +2,7 @@
 
 ## High Priority Tasks
 - [ ] Finalize block diagram
-- [ ] Draft PCB layout
+- [ ] Component selection
 
 ## Medium Priority Tasks
 - [ ] Write Arduino servo motor control code
@@ -14,7 +14,6 @@
 - [ ] Prepare final presentation
 
 ## Dependencies
-- PCB soldering depends on **ordering parts** first.
-- Testing depends on **circuit assembly**.
+- Getting all the required components
 
 
