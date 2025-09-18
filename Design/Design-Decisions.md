@@ -14,7 +14,7 @@
 ## Alternatives Considered
 - Esp32
 - STM32
-- DC motors.
+- DC motors
 
 ## Future Decisions To Be Made
 - 
