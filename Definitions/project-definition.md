@@ -1,15 +1,15 @@
 # Project Definition
 
 ## Project Title
-Mini Industrial Robotic Arm
+2DOF robot controlled by MPU6050
 
 ## Team Members
-- Member 1 (role: electronics)
-- Member 2 (role: mechanical design)
-- Member 3 (role: coding)
+- John Yalley (role: electronics)
+- Alicia  (role: mechanical design)
+- Larbi  (role: coding)
 
 ## Problem Statement
-Current robotic arms are expensive and difficult for students to build. We aim to create a small, low-cost robotic arm for educational use.
+Able to move objects with just flick of a finger 
 
 ## Objectives
 - Build a functional robotic arm with 3 DOF.
@@ -19,7 +19,7 @@ Current robotic arms are expensive and difficult for students to build. We aim t
 ## Requirements
 - Lift at least 450 g.
 - Operate on 12V DC.
-- Controlled via USB or Bluetooth.
+- Controlled via USB or RF transmitter and Reciever.
 - Budget under $150.
 
 ## Constraints
