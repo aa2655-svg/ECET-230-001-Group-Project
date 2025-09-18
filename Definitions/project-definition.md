@@ -1,7 +1,7 @@
 # Project Definition
 
 ## Project Title
-2DOF robot controlled by MPU6050
+3DOF robot controlled by MPU6050
 
 ## Team Members
 - John Yalley (role: electronics)
@@ -9,7 +9,7 @@
 - Larbi  (role: coding)
 
 ## Problem Statement
-Able to move objects with just flick of a finger 
+Able to move objects with just a flick of a finger 
 
 ## Objectives
 - Build a functional robotic arm with 3 DOF.
@@ -17,9 +17,8 @@ Able to move objects with just flick of a finger
 - Provide precision control using encoders.
 
 ## Requirements
-- Lift at least 450 g.
-- Operate on 12V DC.
-- Controlled via USB or RF transmitter and Reciever.
+- Operate on 9V DC
+- Controlled via USB or RF transmitter and Receiver
 - Budget under $150.
 
 ## Constraints
