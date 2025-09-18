@@ -17,7 +17,7 @@
 - DC motors
 
 ## Future Decisions To Be Made
-- B
+- Deciding on the microcontroller and servo motors to use
 
 ## Guiding Principles
 - Must be controlled with a gyroscope/Accelerometer
