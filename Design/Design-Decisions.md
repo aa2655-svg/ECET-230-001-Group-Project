@@ -11,6 +11,12 @@
 - **Sensor**: Gyroscope for position feedback
 - **Wireless**: RF Transmitter and Reciever
 
+## Componenet Selection
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Row 1    | Data     | More    |
+| Row 2    | Data     | More    |
+
 ## Alternatives Considered
 - Esp32
 - STM32
