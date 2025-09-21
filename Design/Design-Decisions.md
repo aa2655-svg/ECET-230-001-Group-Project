@@ -15,7 +15,7 @@
 | Components | Manufactura name | datasheet |
 |----------|----------|----------|
 | Arduino Uno x2 | Data     | More    | 
-| Row 2    | Data     | More    |
+| RF Transmitter | Data     | More    |
 
 ## Alternatives Considered
 - Esp32
