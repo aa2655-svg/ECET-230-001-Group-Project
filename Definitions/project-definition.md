@@ -21,6 +21,8 @@ Able to move objects with just a flick of a finger
 - Controlled via USB or RF transmitter and Receiver
 - Budget under $150.
 
+## Component selection
+- 
 ## Constraints
 - Limited time (one semester).
 - Must use available 3D printing material (PLA+/PETG).
