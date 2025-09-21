@@ -9,9 +9,9 @@
 ---
 
 ## 👥 Team Members
-- John Yalley – Electronics & Circuit Design  
-- Alicia – Mechanical & CAD Design  
-- Larbi – Coding & Testing  
+- John Yalley - CAD and Component Selection
+- Alicia – PCB design and coding
+- Larbi – Research
 
 ---
 
