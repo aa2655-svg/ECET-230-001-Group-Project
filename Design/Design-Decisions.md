@@ -12,7 +12,7 @@
 - **Wireless**: RF Transmitter and Reciever
 
 ## Componenet Selection
-| Components | Manufactura name | datasheet | cost |
+| Components | Manufactura name | datasheet |
 |----------|----------|----------|
 | Row 1    | Data     | More    |
 | Row 2    | Data     | More    |
