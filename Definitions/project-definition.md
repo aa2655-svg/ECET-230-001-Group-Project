@@ -4,9 +4,9 @@
 3DOF robot controlled by MPU6050
 
 ## Team Members
-- John Yalley (role: electronics)
-- Alicia  (role: mechanical design)
-- Larbi  (role: coding)
+- John Yalley (role: CAD Model and Component selection)
+- Alicia  (role: Coding and PCB Design)
+- Larbi  (role: Research)
 
 ## Problem Statement
 Able to move objects with just a flick of a finger 
