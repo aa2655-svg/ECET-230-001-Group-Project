@@ -14,7 +14,7 @@
 ## Componenet Selection
 | Components | Manufactura name | datasheet |
 |----------|----------|----------|
-| Row 1    | Data     | More    |
+| Arduino Uno x2 | Data     | More    | 
 | Row 2    | Data     | More    |
 
 ## Alternatives Considered
