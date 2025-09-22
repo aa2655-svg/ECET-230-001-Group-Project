@@ -7,20 +7,22 @@
 ## Current Design Choices
 - **Controller**: Arduino Uno (chosen for simplicity and cost)
 - **Power Supply**: 9V Battery, Charger
-- **Outputs**: Gripper, laser, LED, LCD Display
+- **Outputs**: Gripper, LED, LCD Display
 - **Sensor**: Gyroscope for position feedback
 - **Wireless**: RF Transmitter and Reciever
 
 ## Componenet Selection
 | Components | Manufactura name | datasheet |
 |----------|----------|----------|
-| Arduino Uno x2 | Data     |     | https://www.ti.com/lit/ds/swrs039b/swrs039b.pdf?ts=1758485023645&ref_url=https%253A%252F%252Fwww.google.com%252F
+| Arduino Uno x2 | Data     | https://www.ti.com/lit/ds/swrs039b/swrs039b.pdf?ts=1758485023645&ref_url=https%253A%252F%252Fwww.google.com%252F|
 | RF Transmitter | Data     | More    |
 
 ## Alternatives Considered
 - Esp32
 - STM32
 - DC motors
+- Laser
+- 
 
 ## Future Decisions To Be Made
 - Deciding on the microcontroller and servo motors to use
