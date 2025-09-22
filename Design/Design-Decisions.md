@@ -14,8 +14,8 @@
 ## Componenet Selection
 | Components | Manufactura name | datasheet |
 |----------|----------|----------|
-| Arduino Uno x2 | Data     | none|
-| RF Transmitter | Data     | https://www.handsontec.com/dataspecs/module/433MHz-RF-Mod-2.pdf  |
+| Arduino x2 | Arduino Uno    | none|
+| RF Transmitter and Reciever | Data     | https://www.handsontec.com/dataspecs/module/433MHz-RF-Mod-2.pdf  |
 
 ## Alternatives Considered
 - Esp32
