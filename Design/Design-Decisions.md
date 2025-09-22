@@ -14,8 +14,8 @@
 ## Componenet Selection
 | Components | Manufactura name | datasheet |
 |----------|----------|----------|
-| Arduino Uno x2 | Data     | https://www.ti.com/lit/ds/swrs039b/swrs039b.pdf?ts=1758485023645&ref_url=https%253A%252F%252Fwww.google.com%252F|
-| RF Transmitter | Data     | More    |
+| Arduino Uno x2 | Data     | none|
+| RF Transmitter | Data     | https://www.handsontec.com/dataspecs/module/433MHz-RF-Mod-2.pdf  |
 
 ## Alternatives Considered
 - Esp32
