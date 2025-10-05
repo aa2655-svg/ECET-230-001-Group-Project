@@ -14,7 +14,7 @@
 ## Componenet Selection
 | Components | Manufactura name | datasheet | Software Libraries |
 |----------|----------|----------|---------|
-| Arduino x2 | Arduino Uno    | none|
+| Arduino x2 | Arduino Uno    | https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf|
 | RF Transmitter and Reciever | 433MHz RF Transmitter/Receiver Module  | https://www.handsontec.com/dataspecs/module/433MHz-RF-Mod-2.pdf  |
 
 ## Alternatives Considered
