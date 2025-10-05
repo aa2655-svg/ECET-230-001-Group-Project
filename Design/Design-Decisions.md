@@ -22,16 +22,16 @@
 |Gyroscope | MPU5060 | https://www.digikey.com/htmldatasheets/production/1732757/0/0/1/sen-11028.pdf | |
 |Breadboards| prototypin board| https://components101.com/sites/default/files/component_datasheet/Breadboard%20Datasheet.pdf | NA|
 |Wires | | |
+|Laser| | |
 
 ## Alternatives Considered
 - Esp32
 - STM32
 - DC motors
 - Laser
-- 
 
 ## Future Decisions To Be Made
-- Deciding on the microcontroller and servo motors to use
+- Mechanical parts
 
 ## Guiding Principles
 - Must be controlled with a gyroscope/Accelerometer
@@ -57,13 +57,3 @@
 - Getting all electronic equipment
 - Size: Approximately 10 inches maybe
 - Servo (MS90) for joint movement
-
-## modules ordered for your prototype
-- idk
-- idk
-- idk
-- idk
-- idk
-
-## 
-
