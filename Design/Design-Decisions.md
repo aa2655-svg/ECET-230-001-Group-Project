@@ -20,6 +20,8 @@
 |LCD display | Liquid crystal | https://www.vishay.com/docs/37484/lcd016n002bcfhet.pdf | |
 |LED | | https://www.farnell.com/datasheets/1498852.pdf | | NA|
 |Gyroscope | MPU5060 | https://www.digikey.com/htmldatasheets/production/1732757/0/0/1/sen-11028.pdf | |
+|Breadboards| prototypin board| https://components101.com/sites/default/files/component_datasheet/Breadboard%20Datasheet.pdf | NA|
+|Wires | | |
 
 ## Alternatives Considered
 - Esp32
