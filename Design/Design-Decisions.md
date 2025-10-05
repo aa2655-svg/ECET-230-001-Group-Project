@@ -16,7 +16,7 @@
 |------------|------------------|-----------|--------------------|
 | Arduino x2 | Arduino Uno      | https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf|
 | RF Transmitter and Reciever | 433MHz RF Transmitter/Receiver Module  | https://www.handsontec.com/dataspecs/module/433MHz-RF-Mod-2.pdf  |
-|Servos x4   |Msg 90 servo      |------------|----------------|
+|Servos x4   |Mg90 servo      |https://components101.com/motors/mg90s-metal-gear-servo-motor|----------------|
 
 ## Alternatives Considered
 - Esp32
