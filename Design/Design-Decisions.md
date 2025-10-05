@@ -52,3 +52,12 @@
 - Size: Approximately 10 inches maybe
 - Servo (MS90) for joint movement
 
+## modules ordered for your prototype
+- idk
+- idk
+- idk
+- idk
+- idk
+
+## 
+
