@@ -18,6 +18,8 @@
 | RF Transmitter and Reciever | 433MHz RF Transmitter/Receiver Module  | https://www.handsontec.com/dataspecs/module/433MHz-RF-Mod-2.pdf  | |
 |Servos x4   |Mg90 servo      |https://components101.com/motors/mg90s-metal-gear-servo-motor||
 |LCD display | Liquid crystal | https://www.vishay.com/docs/37484/lcd016n002bcfhet.pdf | |
+|LED | | https://www.farnell.com/datasheets/1498852.pdf | | NA|
+|Gyroscope | MPU5060 | https://www.digikey.com/htmldatasheets/production/1732757/0/0/1/sen-11028.pdf | |
 
 ## Alternatives Considered
 - Esp32
