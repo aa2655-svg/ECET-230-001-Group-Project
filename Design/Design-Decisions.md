@@ -60,7 +60,7 @@
 
 
 ## Checklist
-□ Have modules ordered for your prototype
+- □ Have modules ordered for your prototype
 □ Have datasheets for what is on your modules
 □ Have software libraries
 □ Have development environment for software
