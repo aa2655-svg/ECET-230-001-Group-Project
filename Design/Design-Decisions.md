@@ -61,8 +61,8 @@
 
 ## Checklist
 - [ ] Have modules ordered for your prototype
-□ Have datasheets for what is on your modules
-□ Have software libraries
-□ Have development environment for software
-[ x ] Have breadboards, wires, mechanical elements
-□ Have access to a workbench with appropriate tools
+- [ ] Have datasheets for what is on your modules
+- [ ] Have software libraries
+- [ ] Have development environment for software
+- [x] Have breadboards, wires, mechanical elements
+- [ ] Have access to a workbench with appropriate tools
