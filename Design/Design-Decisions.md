@@ -65,4 +65,6 @@
 - [x] Have software libraries
 - [x] Have development environment for software
 - [ ] Have breadboards, wires, mechanical elements
+        - Need to complete mechanical elements
 - [ ] Have access to a workbench with appropriate tools
+        - Need access to a workbench
