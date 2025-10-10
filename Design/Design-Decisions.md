@@ -57,3 +57,12 @@
 - Getting all electronic equipment
 - Size: Approximately 10 inches maybe
 - Servo (MS90) for joint movement
+
+
+## Checklist
+□ Have modules ordered for your prototype
+□ Have datasheets for what is on your modules
+□ Have software libraries
+□ Have development environment for software
+□ Have breadboards, wires, mechanical elements
+□ Have access to a workbench with appropriate tools
