@@ -28,7 +28,19 @@
 ---
 
 ## Materials and cost
-
+- **Arduino x2** - $
+- **Ultrasonic Sensor x2** - $
+- **Buzzer(Piezo-electric)** -$
+- **MPU6050** - $
+- **LCD Display** - $
+- **LCD Display (I2C)** - $
+- **Push Button x5** - $
+- **LED (red and Green)** - $
+- **9V Battery** - $
+- **Battery Pack** - $
+- **RF Transmitter and Reciever** - $
+- 
+  
 ---
 
 ## 📆 Timeline
