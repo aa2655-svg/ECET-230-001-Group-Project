@@ -2,6 +2,8 @@
 
 ## Block Diagram
 <img width="971" height="568" alt="image" src="https://github.com/user-attachments/assets/23433afe-e750-48fe-b520-00bed206be9a" />
+<img width="920" height="566" alt="image" src="https://github.com/user-attachments/assets/333ba76a-3fcb-492b-8567-0a657e466f2b" />
+
 
 
 ## Current Design Choices
