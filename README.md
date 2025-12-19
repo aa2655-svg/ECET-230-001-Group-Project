@@ -5,6 +5,8 @@
 - Integrate **servo motors** with encoders for precise motion.
 - Keep total cost under **$150**.
 - Deliver full documentation for replication.
+- Include **Ultrasonic** sensor for detection
+- include **buzzer** for audio effect
 
 ---
 
