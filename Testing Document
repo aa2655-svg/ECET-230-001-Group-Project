@@ -1,4 +1,4 @@
-Testing Document
+#Testing Document
 Introduction
 
 This document describes the testing procedures used to verify the functionality, safety and reliability of this project. The moving arm integrates multiple servo motors, a microcontroller and inverse kinematics to perform controlled and coordinated motion. Because the system combines mechanical components, electrical hardware and software logic, structured testing is necessary to ensure that each subsystem operates correctly both individually and as part of the complete system.
