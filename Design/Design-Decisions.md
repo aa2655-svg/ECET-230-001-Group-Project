@@ -9,8 +9,8 @@
 ## Current Design Choices
 - **Controller**: Arduino Uno (chosen for simplicity and cost)
 - **Power Supply**: 9V Battery, Charger
-- **Outputs**: Gripper, LED, LCD Display
-- **Sensor**: Gyroscope for position feedback
+- **Outputs**: Gripper, LED, LCD Display, Push Button
+- **Sensor**: Gyroscope for position feedback, Ultrasonic sensor to detect objects and measure distances
 - **Wireless**: RF Transmitter and Reciever
 
 ## Component Selection
@@ -21,6 +21,9 @@
 |Servos x5   |Mg90 servo      |https://components101.com/motors/mg90s-metal-gear-servo-motor|Servo.h|
 |LCD display | Liquid crystal | https://www.vishay.com/docs/37484/lcd016n002bcfhet.pdf |wire.h |
 |LED | | https://www.farnell.com/datasheets/1498852.pdf | | NA|
+|Push Button | | | |
+|Ultrasonic Sensor | | | |
+|Buzzer| | | |
 |Gyroscope | MPU5060 | https://www.digikey.com/htmldatasheets/production/1732757/0/0/1/sen-11028.pdf | |
 |Breadboards| prototypin board| https://components101.com/sites/default/files/component_datasheet/Breadboard%20Datasheet.pdf | NA|
 |Wires | | |
