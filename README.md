@@ -1,6 +1,6 @@
 # ECET-230-001-Group-Project
 ## 🎯 Project Goals
-- Build a robotic arm with **3 degrees of freedom (DOF)** controlled by a gyroscope.
+- Build a robotic arm with **5 degrees of freedom (DOF)** controlled by a gyroscope.
 - Use an **Arduino Uno** for control.
 - Integrate **servo motors** with encoders for precise motion.
 - Keep total cost under **$150**.
@@ -9,9 +9,9 @@
 ---
 
 ## 👥 Team Members
-- John Yalley - CAD and Component Selection
-- Alicia – PCB design and coding
-- Larbi – Research
+- John Yalley - CAD, Mechanical Design
+- Alicia – Coding, testing and validation
+- Larbi – Research, Schematics, PCB Design
 
 ---
 
@@ -19,6 +19,7 @@
 - **Arduino IDE** (C/C++ programming)  
 - **SolidWorks / Fusion 360** (3D design)  
 - **3D Printing (PLA+ / PETG)** for mechanical parts
+- **Laser printing** for mechanical parts
 - **Kicad** for PCB designing  
 - **GitHub** for version control and collaboration  
 
