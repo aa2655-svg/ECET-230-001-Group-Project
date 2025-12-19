@@ -3,13 +3,13 @@
 
 - This document describes the testing procedures used to verify the functionality, safety and reliability of this project. The moving arm integrates multiple servo motors, a microcontroller and inverse kinematics to perform controlled and coordinated motion. Because the system combines mechanical components, electrical hardware and software logic, structured testing is necessary to ensure that each subsystem operates correctly both individually and as part of the complete system.
 
-Objective
+## Objective
 The objective of this testing document is to define a set of manual and automatic tests that can be performed by any user or developer building the moving arm to confirm proper operation at the user level. These tests are designed to verify that:
-Each servo motor responds correctly and remains within safe mechanical limits
-Automatic and inverse-kinematics based movements behave predictably and smoothly
-The robotic arm performs coordinated motion across multiple degrees of freedom
-User feedback mechanisms (such as the LCD display and status indicators) function as intended
-The system operates safely without causing mechanical interference, overheating or damage
+- Each servo motor responds correctly and remains within safe mechanical limits
+- Automatic and inverse-kinematics based movements behave predictably and smoothly
+- The robotic arm performs coordinated motion across multiple degrees of freedom
+- User feedback mechanisms (such as the LCD display and status indicators) function as intended
+- The system operates safely without causing mechanical interference, overheating or damage
 Successful completion of the tests outlined in this document demonstrates that the moving arm system meets functional requirements and is suitable for demonstration and further development.
 
 Test Environment & Pre-Checks
