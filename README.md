@@ -27,6 +27,10 @@
 
 ---
 
+## Materials and cost
+
+---
+
 ## 📆 Timeline
 | Phase | Duration | Description |
 |-------|----------|-------------|
