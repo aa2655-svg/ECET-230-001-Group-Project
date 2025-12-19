@@ -1,7 +1,7 @@
 # Design Decisions
 
 ## Block Diagram
-<img width="835" height="794" alt="block diagram" src="https://github.com/user-attachments/assets/d2a40835-49a0-48e3-a900-833b4614970d" />
+<img width="971" height="568" alt="image" src="https://github.com/user-attachments/assets/23433afe-e750-48fe-b520-00bed206be9a" />
 
 
 ## Current Design Choices
