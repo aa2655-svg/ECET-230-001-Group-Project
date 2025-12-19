@@ -1,10 +1,10 @@
 # Proof of Concept
-Objective 
+## Objective 
 The purpose of this proof of concept is to demonstrate that we can control a robotic system using the MPU6050 gyroscope/accelerometer to drive servo motor movement, with basic user feedback through an LED and LCD. This will validate the feasibility of our control and communication approach before expanding to multiple servos, grippers and wireless functionality.
-Core Idea to Prove
--	Motion sensing: Show that orientation data from MPU6050 can be read by the Arduino and translated into servo motor movement. 
--	User feedback: Show that LED indicators and LCD display respond appropriately to system state (power on, servo activity, basic instructions).
--	System integration: Demonstrate that the Arduino can manage sensor input, actuator output and display simultaneously without system failure.
+## Core Idea to Prove
+- Motion sensing: Show that orientation data from MPU6050 can be read by the Arduino and translated into servo motor movement. 
+- User feedback: Show that LED indicators and LCD display respond appropriately to system state (power on, servo activity, basic instructions).
+- System integration: Demonstrate that the Arduino can manage sensor input, actuator output and display simultaneously without system failure.
 
 Prototype Setup 
 For the proof of concept, we will use a simplified breadboard prototype with:
