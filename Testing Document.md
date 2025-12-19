@@ -12,15 +12,15 @@ The objective of this testing document is to define a set of manual and automati
 - The system operates safely without causing mechanical interference, overheating or damage
 Successful completion of the tests outlined in this document demonstrates that the moving arm system meets functional requirements and is suitable for demonstration and further development.
 
-Test Environment & Pre-Checks
-Hardware Setup 
-All servos are connected to the correct pins
-External 5 V power is used for the servos 
-MPU6050 (if used) is wired correctly (SDA, SCL, VCC, GND)
-LCD is connected to the correct pins
-Receiver
-Transmitter
-Software Setup 
+### Test Environment & Pre-Checks
+## Hardware Setup 
+- All servos are connected to the correct pins
+- External 5 V power is used for the servos 
+- MPU6050 (if used) is wired correctly (SDA, SCL, VCC, GND)
+- LCD is connected to the correct pins
+- Receiver
+- Transmitter
+## Software Setup 
 The correct Arduino sketch is uploaded
 Arduino Serial Monitor is set to the correct baud rate
 Safety
