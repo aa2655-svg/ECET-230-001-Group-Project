@@ -40,7 +40,7 @@ These tests can be done by anyone building the system to confirm basic functiona
 ### LCD Feedback Test: Verify that the LCD provides meaningful user feedback (e.g., servo angles or system status).
 #### Steps 
 - Power on the system
-- Confirm that the initial message appears (e.g., “Initializing…” or “System Ready!”)
+- Confirm that the initial message appears (e.g., “Initializing…” or “System Ready”)
 - Move the arm or let the automatic routine run
 - Confirm that the LCD updates with Base angle, Gripper angle or other configured values (e.g., pitch angle, status text).
 #### Pass Criteria
@@ -84,4 +84,4 @@ Ensure the system can operate for a short continuous period without failure
 - No mechanical parts come loose
 - Motions remain consistent over time
 ## Summary
-	By performing the tests above, a user can verify that all motors are powered and mapped correctly, motion is smooth and stays inside safe limits, the LCD correctly reports system status or angles, the gripper operates safely and does not over-close. These tests together confirm that the major user-level functionality of the 5 DoF robotic arm is working as intended.
+By performing the tests above, a user can verify that all motors are powered and mapped correctly, motion is smooth and stays inside safe limits, the LCD correctly reports system status or angles, the gripper operates safely and does not over-close. These tests together confirm that the major user-level functionality of the 5 DoF robotic arm is working as intended.
