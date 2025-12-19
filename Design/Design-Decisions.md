@@ -18,7 +18,7 @@
 |------------|------------------|-----------|--------------------|
 | Arduino x2 | Arduino Uno      | https://docs.arduino.cc/resources/datasheets/A000066-datasheet.pdf| |
 | RF Transmitter and Reciever | 433MHz RF Transmitter/Receiver Module  | https://www.handsontec.com/dataspecs/module/433MHz-RF-Mod-2.pdf  | virtualWire.h, RadioHead.h, RH_ASK.h|
-|Servos x4   |Mg90 servo      |https://components101.com/motors/mg90s-metal-gear-servo-motor|Servo.h|
+|Servos x5   |Mg90 servo      |https://components101.com/motors/mg90s-metal-gear-servo-motor|Servo.h|
 |LCD display | Liquid crystal | https://www.vishay.com/docs/37484/lcd016n002bcfhet.pdf |wire.h |
 |LED | | https://www.farnell.com/datasheets/1498852.pdf | | NA|
 |Gyroscope | MPU5060 | https://www.digikey.com/htmldatasheets/production/1732757/0/0/1/sen-11028.pdf | |
