@@ -6,7 +6,7 @@
 #define ECHO_PIN 11   
 #define BUZZER_PIN 8
 
-// Second Sensor (Hole Sensor)
+// Second Sensor (Out Sensor)
 #define HOLE_TRIG 7
 #define HOLE_ECHO 4  
 
