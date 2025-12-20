@@ -1,7 +1,7 @@
 # Project Definition
 
 ## Project Title
-3DOF robot controlled by MPU6050
+5DOF robot controlled by MPU6050
 
 ## Team Members
 - John Yalley (role: CAD Model and Component selection)
@@ -9,24 +9,38 @@
 - Larbi  (role: Research)
 
 ## Problem Statement
-Able to move objects with just a flick of a finger 
+- Move marble from point A to B
 
 ## Objectives
-- Build a functional robotic arm with 3 DOF.
+- Build a functional robotic arm with 5 DOF.
 - Use Arduino for easy programming.
-- Provide precision control using encoders.
+- Mpu6050 for robot control
+- Wireless communication 
 
 ## Requirements
 - Operate on 9V DC
-- Controlled via USB or RF transmitter and Receiver
+- Controlled via or RF transmitter and Receiver
 - Budget under $150.
 
 ## Component selection
-- 
+- Servo x5
+- MPU 6050 x1​
+- Arduino x2​
+- Wires
+- LED x3​
+- LCD Display x1​
+- Push Buttons x2​
+- Ultrasonic Sensor x2​
+- Buzzer​
+- RF transmitter and receiver
+
+  
 ## Constraints
 - Limited time (one semester).
 - Must use available 3D printing material (PLA+/PETG).
 - Only off-the-shelf electronics allowed.
+- RF Transmittter and Reciever
+- Arduino Uno
 
 ## Deliverables
 - Working robotic arm prototype.
