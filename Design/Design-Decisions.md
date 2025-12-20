@@ -36,13 +36,15 @@
 - Laser
 
 ## Future Decisions To Be Made
-- Mechanical parts
+- Implement Isaac Sim lab - NVIDIA
+- Refine code
+- Fix antenna issues
 
 ## Guiding Principles
 - Must be controlled with a gyroscope/Accelerometer
 - Must use LED as an indicator
-- Integrate a laser and a gripper together somehow
-- Use servos x3 max
+- Use servos x5
+- 9V battery Pack
 - 9V battery
 
 ## Starting point
@@ -60,8 +62,8 @@
 
 ## Priorities and Dependencies
 - Getting all electronic equipment
-- Size: Approximately 10 inches maybe
-- Servo (MS90) for joint movement
+- Size: Approximately 10 inches
+- Servo (MS90 metal gear) for joint movement
 
 
 ## Checklist
@@ -69,7 +71,7 @@
 - [x] Have datasheets for what is on your modules
 - [x] Have software libraries
 - [x] Have development environment for software
-- [ ] Have breadboards, wires, mechanical elements
+- [x] Have breadboards, wires, mechanical elements
         - Need to complete mechanical elements
-- [ ] Have access to a workbench with appropriate tools
+- [x] Have access to a workbench with appropriate tools
         - Need access to a workbench
