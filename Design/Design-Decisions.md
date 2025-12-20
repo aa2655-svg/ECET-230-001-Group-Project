@@ -58,7 +58,7 @@
 - Wear the controller and control the robot with your fingers
 
 ## User Interface
-- Using your fingertip to move up, down, left, right, or a hand gesture.
+- Using your fingertip to move up, down, left, right, or a hand gesture
 
 ## Priorities and Dependencies
 - Getting all electronic equipment
