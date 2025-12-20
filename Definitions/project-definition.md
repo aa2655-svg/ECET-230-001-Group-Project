@@ -12,7 +12,7 @@
 - Move marble from point A to B
 
 ## Objectives
-- Build a functional robotic arm with 5 DOF.
+- Build a functional robotic arm with 5 DOF
 - Use Arduino for easy programming.
 - Mpu6050 for robot control
 - Wireless communication 
