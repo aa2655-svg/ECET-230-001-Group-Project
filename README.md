@@ -11,7 +11,7 @@
 ---
 
 ## 👥 Team Members
-- John Yalley - CAD, Mechanical Design
+- John - CAD, Mechanical Design
 - Alicia – Coding, testing and validation
 - Larbi – Research, Schematics, PCB Design
 
