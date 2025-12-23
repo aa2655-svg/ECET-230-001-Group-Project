@@ -39,7 +39,6 @@
 - **9V Battery** - $
 - **Battery Pack** - $
 - **RF Transmitter and Reciever** - $
-- 
   
 ---
 
