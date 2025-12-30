@@ -1,4 +1,4 @@
-# ECET-230-001-Group-Project
+# ECET-230-001-Group-Project - Wireless Gesture-Controlled Robotic Manufacturing System
 ## 🎯 Project Goals
 - Build a robotic arm with **5 degrees of freedom (DOF)** controlled by a gyroscope.
 - Use an **Arduino Uno** for control.
